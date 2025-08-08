@@ -19,7 +19,8 @@ This ensures notes are immutable in history and securely stored on-chain, enabli
 ---
 
 ## Contract Address 
-- "Result": {
+```
+ "Result": {
     "transaction_hash": "0xcd751a98db57c2e2c829abc14fdb7072d20cd331d6de1ca6304a3d2dbb93ecfc",
     "gas_used": 1908,
     "gas_unit_price": 100,
@@ -34,6 +35,7 @@ This ensures notes are immutable in history and securely stored on-chain, enabli
     "vm_status": "Executed successfully"
   }
 }
+```
 
 ## 📂 Contract Structure
 ```move
